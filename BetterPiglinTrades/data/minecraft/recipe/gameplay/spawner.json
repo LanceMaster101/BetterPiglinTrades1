@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:chain",
+      "X": "minecraft:totem_of_undying"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:spawner"
+    }
+  }

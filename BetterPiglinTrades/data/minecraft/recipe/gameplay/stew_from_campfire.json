@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 300,
+  "ingredient": "minecraft:mushroom_stew",
+  "result": {
+    "id": "minecraft:beetroot_soup",
+    "components": {"food": {"nutrition": 8, "saturation": 8},"max_stack_size": 64}
+  }
+}

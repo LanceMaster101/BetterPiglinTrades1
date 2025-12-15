@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:planks",
+    "z": [
+ "minecraft:copper_ingot",
+ "minecraft:iron_ingot"
+  ]
+  },
+  "pattern": [
+    " # ",
+    "#z#",
+    " # "
+  ],
+  "result": {
+    "id": "minecraft:chest"
+  }
+}

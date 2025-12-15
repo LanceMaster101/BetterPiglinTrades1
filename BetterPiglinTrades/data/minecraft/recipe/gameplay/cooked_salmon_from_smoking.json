@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 1,
+  "ingredient": [
+"minecraft:salmon",
+"minecraft:pufferfish"
+  ],
+  "result": {
+    "id": "minecraft:cooked_salmon",
+    "components": {"food": {"nutrition": 4, "saturation": 4}}
+  }
+}

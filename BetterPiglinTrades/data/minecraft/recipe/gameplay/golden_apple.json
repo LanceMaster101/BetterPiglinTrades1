@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:gold_ingot",
+    "X": "minecraft:apple"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_apple",
+    "components": {"food": {"nutrition": 2, "saturation": 6,"effects": [{"effect": {"id":"minecraft:regeneration","amplifier": 0,"duration": 600}},{"effect": {"id":"minecraft:absorption","amplifier": 3,"duration": 600}},{"effect": {"id":"minecraft:fire_resistance","amplifier": 0,"duration": 600}}]}}
+  }
+}

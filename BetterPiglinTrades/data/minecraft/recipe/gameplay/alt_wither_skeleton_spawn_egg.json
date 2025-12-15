@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#":["minecraft:soul_soil","minecraft:soul_sand"],
+      
+      "X": "minecraft:skeleton_spawn_egg",
+       
+      "Y": "minecraft:lapis_lazuli"
+      },
+
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:wither_skeleton_spawn_egg"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:experience_bottle",
+      "X": "minecraft:blaze_powder",
+      "Y": "minecraft:magma_cream"
+    },
+    "pattern": [
+      " X ",
+      "X#X",
+      "YYY"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:dragon_breath"
+    }
+  }

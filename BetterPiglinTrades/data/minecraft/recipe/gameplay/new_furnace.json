@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "#stone_crafting_materials",
+      "X": "#coals"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:furnace"
+    }
+  }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "minecraft:kelp",
+  "result": {
+    "id": "minecraft:dried_kelp",
+    "components": {"food": {"eat_seconds": 1,"nutrition": 1, "saturation": 3,"effects": [{"effect": {"id": "regeneration", "amplifier": 0, "duration": 60}}]}}
+  }
+}

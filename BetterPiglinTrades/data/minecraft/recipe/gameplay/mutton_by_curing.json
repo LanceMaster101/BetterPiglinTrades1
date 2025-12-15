@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:sugar",
+      "X": "minecraft:rotten_flesh"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      " # "
+    ],
+    "result": {
+      "id": "minecraft:mutton",
+      "components": {"food": {"nutrition": 8, "saturation": 2}}
+    }
+  }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 1,
+  "ingredient": "minecraft:rabbit",
+  "result": {
+    "id": "minecraft:cooked_rabbit",
+    "components": {"food": {"nutrition": 5, "saturation": 3}}
+  }
+}

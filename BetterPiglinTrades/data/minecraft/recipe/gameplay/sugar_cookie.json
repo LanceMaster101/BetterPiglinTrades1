@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+ "minecraft:sugar",
+ "#minecraft:eggs",
+ "minecraft:wheat",
+ "minecraft:wheat"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:rabbit",
+    "components": {"food": {"nutrition": 6, "saturation": 6}}
+
+  }
+}

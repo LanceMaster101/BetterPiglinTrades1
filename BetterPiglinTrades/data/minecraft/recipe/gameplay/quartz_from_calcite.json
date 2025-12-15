@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cobblestone",
+  "ingredients": [
+    "calcite"
+  ],
+  "result": {
+    "id": "minecraft:quartz"
+  }
+}

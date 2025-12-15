@@ -1,0 +1,2 @@
+function bpt:animals
+function bpt:angryzombiepigs

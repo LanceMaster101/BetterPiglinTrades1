@@ -1,0 +1,111 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:arrow",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tipped_arrow",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:long_poison"
+              },
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tipped_arrow",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:strong_poison"
+              },
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tipped_arrow",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:harming"
+              },
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tipped_arrow",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:strong_harming"
+              },
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "weight": 5
+          }
+        ],
+        "rolls": {
+          "type": "minecraft:uniform",
+          "max": 5.0,
+          "min": 3.0
+        }
+      }
+    ]
+  }

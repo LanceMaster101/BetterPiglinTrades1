@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:phantom_membrane",
+      "X": "minecraft:egg",
+      "Y": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:phantom_spawn_egg"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:skeleton_spawn_egg",
+      "X": "minecraft:lapis_lazuli",
+      "Y": "minecraft:snow_block"
+    },
+    "pattern": [
+      "YXY",
+      "Y#Y",
+      "YYY"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:stray_spawn_egg"
+    }
+  }

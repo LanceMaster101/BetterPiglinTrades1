@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "X": "minecraft:emerald",
+      "Y": "minecraft:ghast_tear",
+      "Z": "minecraft:gold_ingot",
+      "#": "minecraft:blaze_powder"
+    },
+    "pattern": [
+      "XYX",
+      "ZZZ",
+      "#Z#"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:totem_of_undying"
+    }
+  }

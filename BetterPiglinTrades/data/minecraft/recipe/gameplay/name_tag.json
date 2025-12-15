@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:string",
+      "minecraft:ink_sac"
+    ],
+    "result": {
+      "id": "minecraft:name_tag"
+      ,"count": 1
+    }
+  }

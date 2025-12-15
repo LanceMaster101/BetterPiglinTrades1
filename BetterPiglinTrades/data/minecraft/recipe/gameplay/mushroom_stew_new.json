@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+     "minecraft:bowl",
+    [
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+     "minecraft:beetroot",
+      "minecraft:crimson_fungus"
+    ],
+    [
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+     "minecraft:beetroot",
+      "minecraft:crimson_fungus"
+    ],
+    [
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+     "minecraft:beetroot",
+      "minecraft:crimson_fungus"
+    ]
+
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mushroom_stew",
+    "components": {"food": {"nutrition": 6, "saturation": 6}, "max_stack_size": 64}
+  }
+}

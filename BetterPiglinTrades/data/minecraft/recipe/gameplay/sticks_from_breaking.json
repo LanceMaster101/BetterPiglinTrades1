@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "wood",
+  "ingredients": [
+    [
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_sword"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

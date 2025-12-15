@@ -1,0 +1,51 @@
+{
+    "type": "minecraft:fishing",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:enchant_with_levels",
+                "levels": 30.0
+              }
+            ],
+            "name": "minecraft:book",
+            "weight": 50
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly",
+                "options": [
+                  "minecraft:mending"
+                ]
+              }
+            ],
+            "name": "minecraft:book",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly",
+                "options": [
+                  "minecraft:thorns",
+                  "minecraft:unbreaking",
+                  "minecraft:efficiency",
+                  "minecraft:protection"
+                ]
+              }
+            ],
+            "name": "minecraft:book",
+            "weight": 49
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

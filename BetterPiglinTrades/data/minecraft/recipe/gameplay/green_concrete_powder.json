@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "concrete_powder",
+  "ingredients": [
+    "minecraft:green_dye",
+    ["minecraft:sand", "minecraft:white_concrete_powder"],
+["minecraft:sand", "minecraft:white_concrete_powder"],
+["minecraft:sand", "minecraft:white_concrete_powder"],
+["minecraft:sand", "minecraft:white_concrete_powder"],
+["minecraft:gravel", "minecraft:white_concrete_powder"],
+["minecraft:gravel", "minecraft:white_concrete_powder"],
+["minecraft:gravel", "minecraft:white_concrete_powder"],
+["minecraft:gravel", "minecraft:white_concrete_powder"]],
+  "result": {
+    "count": 8,
+    "id": "minecraft:green_concrete_powder"
+  }
+}

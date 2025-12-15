@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:lapis_lazuli",
+      "X": "minecraft:villager_spawn_egg",
+      "Y": "minecraft:crossbow"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:pillager_spawn_egg"
+    }
+  }

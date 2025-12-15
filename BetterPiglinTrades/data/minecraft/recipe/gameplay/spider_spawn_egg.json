@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:spider_eye",
+      "X": "minecraft:egg",
+      "Y": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:spider_spawn_egg"
+    }
+  }

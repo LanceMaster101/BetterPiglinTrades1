@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:experience_bottle",
+      "X": "minecraft:golden_apple"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:enchanted_golden_apple",
+      "components": {"food": {"nutrition": 2, "saturation": 8,"effects": [{"effect": {"id":"minecraft:regeneration","amplifier": 1,"duration": 1200}},{"effect": {"id":"minecraft:absorption","amplifier": 3,"duration": 1200}},{"effect": {"id":"minecraft:health_boost","amplifier": 3,"duration": 1200}},{"effect": {"id":"minecraft:fire_resistance","amplifier": 0,"duration": 1200}}]}}
+    }
+  }

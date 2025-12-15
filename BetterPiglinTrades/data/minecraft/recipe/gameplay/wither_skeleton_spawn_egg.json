@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+ "minecraft:skeleton_spawn_egg",
+ "minecraft:wither_skeleton_skull",
+ "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "minecraft:wither_skeleton_spawn_egg"
+    ,"count": 1
+  }
+}

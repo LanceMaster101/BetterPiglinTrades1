@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:sugar",
+    "X": "minecraft:sweet_berries",
+    "Y": "minecraft:wheat"
+  },
+  "pattern": [
+    "YYY",
+    "#X#",
+    "YYY"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:porkchop",
+    "components": {"food": {"nutrition": 2, "saturation": 0}}
+
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:phantom_membrane",
+      "X": "minecraft:dragon_breath"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      "# #"
+    ],
+    "result": {
+      "id": "minecraft:elytra"
+    }
+  }

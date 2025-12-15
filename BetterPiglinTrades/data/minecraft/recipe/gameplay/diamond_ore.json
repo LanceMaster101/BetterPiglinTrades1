@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block",
+      "minecraft:coal_block"
+    ],
+    "result": {
+      "id": "minecraft:diamond_ore"
+      ,"count": 1
+    }
+  }

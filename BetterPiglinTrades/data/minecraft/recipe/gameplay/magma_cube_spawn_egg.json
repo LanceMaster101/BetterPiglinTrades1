@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:magma_cream",
+      "X": "minecraft:egg",
+      "Y": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:magma_cube_spawn_egg"
+    }
+  }

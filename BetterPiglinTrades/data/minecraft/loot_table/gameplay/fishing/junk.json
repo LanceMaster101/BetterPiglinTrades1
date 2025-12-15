@@ -1,0 +1,332 @@
+{
+    "type": "minecraft:fishing",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bamboo",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bone",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:water"
+              }
+            ],
+            "name": "minecraft:potion",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:string",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:cactus",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ink_sac",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:brown_mushroom",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_mushroom",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:beetroot_seeds",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:melon_seeds",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:pumpkin_seeds",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sugar_cane",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:moss_block",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:pointed_dripstone",
+            "weight": 10
+          },
+           {
+            "type": "minecraft:item",
+            "name": "minecraft:dripstone_block",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:prismarine_shard",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:prismarine",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:amethyst_shard",
+            "weight": 10
+          },
+           {
+            "type": "minecraft:item",
+            "name": "minecraft:resin_clump",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:dark_prismarine",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:prismarine_crystals",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sea_lantern",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sand",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:glow_berries",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sea_pickle",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:kelp",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:slime_ball",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:oak_sapling",
+            "weight": 5
+          },
+           {
+            "type": "minecraft:item",
+            "name": "minecraft:mangrove_propagule",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:pale_oak_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:dark_oak_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:acacia_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:birch_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:jungle_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:spruce_sapling",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:cherry_sapling",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:packed_ice",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tube_coral_block",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:tube_coral_fan",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:tube_coral",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:horn_coral_block",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:horn_coral_fan",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:horn_coral",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:fire_coral_block",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:fire_coral_fan",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:fire_coral",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:brain_coral_block",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:brain_coral_fan",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:brain_coral",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bubble_coral_block",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:bubble_coral_fan",
+            "weight": 5
+          },
+                    {
+            "type": "minecraft:item",
+            "name": "minecraft:bubble_coral",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:turtle_egg",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:turtle_scute",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:armadillo_scute",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sniffer_egg",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sweet_berries",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lily_pad",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:seagrass",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:cocoa_beans",
+            "weight": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ice",
+            "weight": 10
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": "minecraft:mushroom_stew",
+  "result": {
+    "id": "minecraft:beetroot_soup",
+    "components": {"food": {"nutrition": 8, "saturation": 8},"max_stack_size": 64}
+  }
+}

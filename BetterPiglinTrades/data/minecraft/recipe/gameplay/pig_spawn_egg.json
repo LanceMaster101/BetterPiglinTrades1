@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:porkchop",
+      "X": "minecraft:egg",
+      "Y": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:pig_spawn_egg"
+    }
+  }

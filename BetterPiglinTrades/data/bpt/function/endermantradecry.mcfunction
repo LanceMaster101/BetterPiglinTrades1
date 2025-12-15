@@ -1,0 +1,6 @@
+execute at @a[scores={BPTCryingObsidianPlaced=1..}] run data merge entity @e[type=enderman,distance=..5,limit=1,sort=nearest,nbt=!{carriedBlockState:{Name:"minecraft:crying_obsidian"}}] {carriedBlockState:{Name:"minecraft:crying_obsidian"}}
+execute at @a at @e[type=enderman,distance=..10,limit=1,sort=nearest,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] run tp @e[type=enderman,distance=..10,limit=1,sort=nearest,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] ~ ~ ~ facing entity @p[scores={BPTCryingObsidianPlaced=1..}]
+execute at @a at @e[type=enderman,distance=..10,limit=1,sort=nearest,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] run playsound entity.enderman.ambient voice @a ~ ~3 ~ 2 1.5 1
+execute at @a run tag @e[type=enderman,distance=..10,limit=1,sort=nearest,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] add traded
+execute at @a if entity @e[type=enderman,distance=..10,limit=1,sort=nearest,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] run give @p[scores={BPTCryingObsidianPlaced=1..}] ender_pearl 1
+execute at @e[tag=traded,nbt={carriedBlockState:{Name:"minecraft:crying_obsidian"}}] run fill ~-5 ~-2 ~-5 ~5 ~2 ~5 air replace crying_obsidian

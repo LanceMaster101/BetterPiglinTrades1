@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      "minecraft:beetroot_soup",
+      [
+        "minecraft:cooked_beef",
+        "minecraft:cooked_mutton",
+        "minecraft:cooked_chicken"
+      ]
+    ],
+    "result": {
+      "id": "minecraft:rabbit_stew",
+      "count": 1,
+      "components": {"food": {"nutrition": 20, "saturation": 10}, "max_stack_size": 64}
+
+    }
+  }

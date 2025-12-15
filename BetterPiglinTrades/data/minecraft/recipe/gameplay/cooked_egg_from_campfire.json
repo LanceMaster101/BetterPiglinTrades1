@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 1,
+  "ingredient": "minecraft:egg",
+  "result": {
+    "id": "minecraft:tropical_fish",
+    "components": {"food": {"nutrition": 3, "saturation": 3}}
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:ghast_tear",
+      "X": "minecraft:egg",
+      "Y": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:ghast_spawn_egg"
+    }
+  }

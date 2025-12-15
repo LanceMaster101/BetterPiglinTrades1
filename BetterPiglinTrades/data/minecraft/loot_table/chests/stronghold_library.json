@@ -1,0 +1,87 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:book",
+            "weight": 20,
+            "quality": -5
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 9.0,
+                  "min": 3.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:paper",
+            "weight": 20,
+            "quality": -5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:map"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:compass"
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:enchant_with_levels",
+                "levels": 30.0,
+                "treasure": true
+              }
+            ],
+            "name": "minecraft:book",
+            "weight": 10,
+            "quality": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ender_pearl",
+            "weight": 10,
+            "quality": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ender_eye",
+            "weight": 10,
+            "quality": 5
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:eye_armor_trim_smithing_template",
+            "weight": 5
+          }
+        ],
+        "rolls": {
+          "type": "minecraft:uniform",
+          "max": 10.0,
+          "min": 5.0
+        }
+      }
+    ]
+  }

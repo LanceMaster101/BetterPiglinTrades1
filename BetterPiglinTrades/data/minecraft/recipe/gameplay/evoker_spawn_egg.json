@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:lapis_lazuli",
+      "X": "minecraft:pillager_spawn_egg",
+      "Y": "minecraft:totem_of_undying"
+    },
+    "pattern": [
+      "#Y#",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "id": "minecraft:evoker_spawn_egg"
+    }
+  }

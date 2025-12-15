@@ -1,0 +1,100 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 10.0,
+                  "min": 3.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:suspicious_stew",
+            "weight": 5,
+            "quality": 0
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 10.0,
+                  "min": 5.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:golden_carrot",
+            "weight": 5,
+            "quality": 2
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 10.0,
+                  "min": 5.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:baked_potato",
+            "weight": 5,
+            "quality": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 10.0,
+                  "min": 5.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:packed_ice",
+            "weight": 5,
+            "quality": 0
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 8.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "minecraft:snowball",
+            "weight": 5,
+            "quality":-1
+          }
+        ],
+        "rolls": {
+          "type": "minecraft:uniform",
+          "max": 10.0,
+          "min": 5.0
+        }
+      }
+    ]
+  }

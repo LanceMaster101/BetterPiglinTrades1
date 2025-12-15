@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+ "minecraft:skeleton_spawn_egg",
+
+ "minecraft:powder_snow_bucket",
+
+ "minecraft:lapis_lazuli"
+
+  ],
+  "result": {
+    "id": "minecraft:stray_spawn_egg"
+    ,"count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 1,
+  "ingredient": "minecraft:porkchop",
+  "result": {
+    "id": "minecraft:cooked_porkchop",
+    "components": {"food": {"nutrition": 8, "saturation": 0}}
+  }
+}
